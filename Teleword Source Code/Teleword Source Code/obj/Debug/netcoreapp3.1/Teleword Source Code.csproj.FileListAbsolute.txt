@@ -1,0 +1,13 @@
+E:\C#\Teleword Source Code\Teleword Source Code\bin\Debug\netcoreapp3.1\Teleword Source Code.exe
+E:\C#\Teleword Source Code\Teleword Source Code\bin\Debug\netcoreapp3.1\Teleword Source Code.deps.json
+E:\C#\Teleword Source Code\Teleword Source Code\bin\Debug\netcoreapp3.1\Teleword Source Code.runtimeconfig.json
+E:\C#\Teleword Source Code\Teleword Source Code\bin\Debug\netcoreapp3.1\Teleword Source Code.runtimeconfig.dev.json
+E:\C#\Teleword Source Code\Teleword Source Code\bin\Debug\netcoreapp3.1\Teleword Source Code.dll
+E:\C#\Teleword Source Code\Teleword Source Code\bin\Debug\netcoreapp3.1\Teleword Source Code.pdb
+E:\C#\Teleword Source Code\Teleword Source Code\obj\Debug\netcoreapp3.1\Teleword Source Code.csprojAssemblyReference.cache
+E:\C#\Teleword Source Code\Teleword Source Code\obj\Debug\netcoreapp3.1\Teleword Source Code.AssemblyInfoInputs.cache
+E:\C#\Teleword Source Code\Teleword Source Code\obj\Debug\netcoreapp3.1\Teleword Source Code.AssemblyInfo.cs
+E:\C#\Teleword Source Code\Teleword Source Code\obj\Debug\netcoreapp3.1\Teleword Source Code.csproj.CoreCompileInputs.cache
+E:\C#\Teleword Source Code\Teleword Source Code\obj\Debug\netcoreapp3.1\Teleword Source Code.dll
+E:\C#\Teleword Source Code\Teleword Source Code\obj\Debug\netcoreapp3.1\Teleword Source Code.pdb
+E:\C#\Teleword Source Code\Teleword Source Code\obj\Debug\netcoreapp3.1\Teleword Source Code.genruntimeconfig.cache
